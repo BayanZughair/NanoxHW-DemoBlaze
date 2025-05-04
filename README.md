@@ -11,17 +11,15 @@ Home Assignment - QA Automation Engineer – Nanox.AI
 ## Installation
 - Clone project on your device
 ```
-git clone 
+git clone https://github.com/BayanZughair/NanoxHW-DemoBlaze.git
 ```
 - Open IntelliJ IDEA and the project on your device
 - For Run Automation Testing
 ```
-mvn clean test
+mvn test
 ```
-you can run each test by clicking on Run button 
-
 
 ## There are also 3 files 
-# bug report 
-# Strategy plan
-# improvement
+bug report 
+Strategy plan
+improvement
