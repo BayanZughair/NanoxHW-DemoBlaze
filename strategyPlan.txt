@@ -1,0 +1,18 @@
+would use Selenium and Cucumber since they are already selected and mentioned on the job description.
+adding TestNG for better test management and reporting.
+
+To understand the system, I would d read the documentation, meet with developers
+and watch current users work with the application.
+I will also review any existing test cases.
+
+then I would like to prioritize tests for the most critical features first - anything related to our users data or critical features.
+After that, I would like to automate the most common user workflows.
+
+then I would like to expand testing to cover more scenarios and edge cases.
+I will focus on different data combinations and unusual situations. For comprehensive coverage,
+I will make sure each requirement has at least one test, and I will track which features are covered and which still need work.
+throughout I would like to have regular check-ins with the team to make sure I'm testing what matters most to them and their users.
+
+
+Finally, I am looking forward to join the Nanox team and contribute to reaching nanox milestones!
+Looking forward to implementing a focused plan that delivers real value to the project.
